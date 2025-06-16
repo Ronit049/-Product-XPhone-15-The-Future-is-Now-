@@ -53,8 +53,7 @@
         <strong>- Ananya R., Delhi</strong>
       </div>
       <div style="background: #fff; padding: 20px; border-radius: 10px;">
-        <p>"Finally, a phone that lasts all day without heating up. Super smooth, super stylish, and super powerful."</p>
-        <strong>- Rahul K., Mumbai</strong>
+        
       </div>
     </div>
   </div>
