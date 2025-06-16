@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+   <img src="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6443/6443289cv11d.jpg" alt="iphone 15">
   <meta charset="UTF-8">
   <title>XPhone 15 - Landing Page</title>
 </head>
